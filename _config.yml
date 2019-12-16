@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
+title: Mindware
+description: 有关理性决策/社会与日常 # this means to ignore newlines until "baseurl:"
 baseurl: "/Hailiange.github.io" # the subpath of your site, e.g. /blog
 url: "zhailiange.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:   zhailiang
+author-avatar: 09.jpeg
 
 
 #-------------------------------
