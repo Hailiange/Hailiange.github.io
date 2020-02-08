@@ -1,13 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll 博客更新办法"
 date:   2018-05-29 18:05:55 +0300
 image:  11.jpg
-tags:   [Jekyll]
+tags:   [工具]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+## 博客命令步骤指南
+
+- 定位：cd…   
+
+- 查看状态： git status   
+
+- 添加修改：
+
+git add .
+ 
+git commit -m "description"
+ 
+或者直接输入`git commit -am "Add file"`
+
+- 推送：git push
+
+- 运行预览：bundle exec jekyll serve  或者 `jekyll serve`
+
+
+博客文件放在 `_posts`当中
+
+
+添加文件名称：
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+代码：
 
 Jekyll also offers powerful support for code snippets:
 
