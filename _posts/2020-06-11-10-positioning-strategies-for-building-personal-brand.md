@@ -2,7 +2,7 @@
 layout: post
 title:  打造个人品牌的10个定位选择
 date:   2020-06-11  21:14:55 +0300
-image:  35.png
+image:  36.jpg
 tags:   [职业生涯]
 ---
 
