@@ -2,7 +2,7 @@
 layout: post
 title:  清晰的自我认知，是我们对应外部的工具和武器
 date:   2020-09-13  21:14:55 +0300
-image:  37.jpg
+image:  05.jpg
 tags:   [职业生涯]
 ---
 
