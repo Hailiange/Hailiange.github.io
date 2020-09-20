@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -74,9 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "2020-06-11-10-positioning-strategies-for-building-personal-brand.md",
+    "2020-09-13-self-awareness.md",
+    "2019-02-11-why-is-it-so-difficult-to-change.md",
+    "2019-03-27-Redesign-your-learning-strategy.md",
+    "2019-08-25-100 workplace questions-02.md",
+    "2020-04-25-QuickTime-+-BlackHole-perfect-solution-to recording-sound.md",
     "2020-04-25-Jekyll-Theme.md",
-    "2020-04-25-QuickTime-+-BlackHole-perfect-solution-to recording-sound.md"
+    "2019-08-12-《Complex》.md",
+    "2017-11-30-second-order-change.md",
+    "2017-09-20-To-Do.md",
+    "2017-09-10-zest.md"
   ]
 }
