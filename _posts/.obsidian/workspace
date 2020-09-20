@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "40e83dbc39501a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "248a710800b9dcf6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-09-13-self-awareness.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f71a55be34fce6c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed767d4c70b21d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14002dabe9fbc010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b1d8e221664e0ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "274c2d41488f10a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64bb5f291c08b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f507d0edffdaf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-09-13-self-awareness.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2020-06-11-10-positioning-strategies-for-building-personal-brand.md",
+    "2020-04-25-Jekyll-Theme.md",
+    "2020-04-25-QuickTime-+-BlackHole-perfect-solution-to recording-sound.md"
+  ]
+}
