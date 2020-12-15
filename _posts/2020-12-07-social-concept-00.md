@@ -2,7 +2,7 @@
 layout: post
 title:  我们该如何在风险社会中自处？
 date:   2020-12-07  08:27:55 +0300
-image:  37.jpg
+image:  20.jpg
 tags:   社会观  社会学
 ---
 
