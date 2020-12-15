@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-09-13-self-awareness.md",
+            "file": "2020-12-07-social-concept-00.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-09-13-self-awareness.md"
+                "file": "2020-12-07-social-concept-00.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2020-12-07-social-concept-00.md",
     "2020-09-13-self-awareness.md",
-    "2020-06-11-10-positioning-strategies-for-building-personal-brand.md",
+    "为什么要了解社会.md",
+    "如何快速确定 一个陌生领域的选题.md",
+    "Untitled.md",
+    "2019-08-25-100-workplace-questions-02.md",
     "2020-04-25-QuickTime-+-BlackHole-perfect-solution-to recording-sound.md",
     "2020-04-25-Jekyll-Theme.md",
-    "2019-08-25-100-workplace-questions-02.md",
     "2019-08-12-《Complex》.md",
-    "2017-12-29-annual-report-of-2017.md",
-    "2017-3-25design-for-how-people-learn.md",
-    "2018-01-14-Learning-Sciences.md",
-    "2018-03-17-evolution.md"
+    "2019-03-27-Redesign-your-learning-strategy.md"
   ]
 }
