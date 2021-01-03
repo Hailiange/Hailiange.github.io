@@ -2,7 +2,7 @@
 layout: post
 title:  为什么今天我们会更容易迷茫，更容易被异化？
 date:   2021-01-03 08:27:55 +0300
-image:  20.jpg
+image:  21.jpg
 tags:   社会观  社会学
 ---
 
